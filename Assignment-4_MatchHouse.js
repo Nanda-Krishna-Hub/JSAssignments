@@ -1,4 +1,4 @@
-function matchHouse(n){
+function matchHouses(n){
     return 6*n-(n - 1);
 }
 // for 1 step it takes 6 match sticks
@@ -6,4 +6,4 @@ function matchHouse(n){
 // for 3 steps it takes 6*3-2
 // for n steps it takes 6*n-(n-1)
  
-console.log(matchHouse(87));
+console.log(matchHouses(87));
