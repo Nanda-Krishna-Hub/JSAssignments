@@ -1,4 +1,4 @@
-/*  1.
+  1.
 
             let S = "Ice"
         if(S.length>4){
@@ -7,7 +7,7 @@
         }
         else console.log(S)
 
-*/
+
 
 
 /*  2.
